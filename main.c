@@ -1,7 +1,7 @@
 /** 
  * ================================================================
- * Name: 
- * Section:
+ * Name: C3C Colby Ting
+ * Section: T1A
  * Project: Queue ADT implemented with C array
  * =================================================================
  *
